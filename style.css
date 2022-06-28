@@ -259,6 +259,10 @@ footer,
         width: 150px;
     }
 
+    .header-nav ul li {
+        padding: 0 2rem;
+    }
+
     .grid {
         display: grid;
     }
